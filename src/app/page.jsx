@@ -99,12 +99,12 @@ export default function Home() {
 
       <div className={`flex flex-col md:flex-row gap-8 justify-center`}>
         <ProjectCard
-          name={"Ensign College"}
-          logo={"/ensign.png"}
+          name={"Software Engineer"}
+          logo={"/zermatt.jpg"}
           content={
-            "Working with the Product Team to discover strong solutions for a digital product to support hourly-based external recruiting services. Our platform is built on top of firebase technologies, including Firestore, Cloud Functions (NodeJS + Typescript), Sveltekit, and Typesense."
+            "Currently a student at Ensign College, pursuing a degree in Software Engineering. I am passionate about building software that makes a difference. I started Coding as a hobby when I was 14 years old, and it has since become my career path. I love learning new technologies and applying them to real-world problems."
           }
-          link={"https://www.ensign.edu/"}
+          link={"/projects"}
         />
       </div>
 

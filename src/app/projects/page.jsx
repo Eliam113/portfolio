@@ -38,11 +38,11 @@ const text = {
 
 const projects = [
   {
-    name: "Project A",
-    logo: "/ensign.png",
+    name: "High School Project",
+    logo: "/ermesinde.jpg",
     content:
-      "Working with the Product Team to discover strong solutions for a digital product to support hourly-based external recruiting services. Our platform is built on top of firebase technologies, including Firestore, Cloud Functions (NodeJS + Typescript), Sveltekit, and Typesense.",
-    link: "https://www.ensign.edu/",
+      "Using basic Javascript before AI came out in 2020. I created a simple 2D christmas game that was used to represent our workshop during christmas.",
+    link: "https://lem.codes/users/project04/project%20christmas/krechtmaart.html",
   },
   {
     name: "Project B",

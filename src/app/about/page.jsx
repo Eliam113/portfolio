@@ -38,33 +38,39 @@ export default function About() {
           {/* Left Column - Content */}
           <div className="space-y-6">
             <h1 className="text-4xl font-bold text-gray-900 dark:text-white">
-              I'm JP. I live in New York City, where I develop the future.
+              I'm Eliam Mputu. I am passionate about programming and would love to get involved in programming the
+              future.
             </h1>
 
             <div className="space-y-4 text-lg text-gray-700 dark:text-gray-300">
               <p>
                 Welcome to my portfolio! I'm a passionate software engineer with a love for creating innovative
-                solutions that make a difference. Based in the heart of New York City, I'm constantly inspired by the
-                city's energy and the endless possibilities of technology.
+                solutions that make a difference. I have started programming as a hobby when I was 14 years old, and it
+                has since become my career path. I have a strong foundation in understanding computer science principles
+                and a keen interest in exploring new technologies.
               </p>
 
               <p>
-                With several years of experience in software development, I've had the privilege of working with amazing
-                teams at companies like Slack, Spotify, Audible, and Microsoft. Each role has taught me valuable lessons
-                about building scalable applications, collaborating effectively, and staying current with emerging
-                technologies.
+                I've started to program in my high school years in Luxembourg where I joined a computer science
+                workshop. I learned the babsics of Javascript, which became my main programming language. I later
+                learned about Python in a two year class before I graduated. My passion was to use my math skills in
+                programming websites but especially 2D and 3D games using three.js and unity. I want to expand my
+                knowledge in programming and am therfore pursuing a degree in Software Engineering at Ensign College.
               </p>
 
               <p>
-                I specialize in modern web technologies including React, Node.js, and cloud platforms. My approach
-                combines technical expertise with creative problem-solving, always keeping the user experience at the
-                forefront of my work.
+                Now I specialize in modern web technologies including React, Node.js, and Three.js as well as Unity and
+                Blender. My Math skills help me understand and also develop complex algorithms and functions that can be
+                implemented in various applications but especially in games. I took a high level math class in high
+                school and used to compete in math competitions.
               </p>
 
               <p>
-                When I'm not coding, you can find me exploring the city's diverse neighborhoods, attending tech meetups,
-                or contributing to open-source projects. I believe in continuous learning and sharing knowledge with the
-                developer community.
+                When I'm not coding, you can find me playing sports, especially Basketball and Volleyball. I am
+                ocaasionaly playing strategy board-games or video-games like chess or League of Legends. I like to work
+                out and stay active as well. Taking care of my physical and mental health is important to me. I also
+                play the piano and produce music in my free time. I have used it in a few projects that I have worked
+                on.
               </p>
             </div>
           </div>
@@ -73,8 +79,8 @@ export default function About() {
           <div className="space-y-8">
             {/* Profile Image */}
             <div className="flex justify-center lg:justify-start">
-              <div className="w-64 h-64 rounded-2xl overflow-hidden bg-gradient-to-br from-blue-400 to-purple-600 flex items-center justify-center">
-                <div className="text-white text-6xl font-bold">J</div>
+              <div className="w-128 h-128 rounded-2xl overflow-hidden bg-gradient-to-br from-blue-400 to-purple-600 flex items-center justify-center">
+                <img src="/grindel.jpg" alt="Profile" className="object-cover w-full h-full" />
               </div>
             </div>
 
