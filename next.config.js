@@ -9,4 +9,4 @@ const nextConfig = {
   images: { unoptimized: true }, // disables image optimization (not supported on GH Pages)
 };
 
-module.exports = nextConfig;
+module.exports = nextConfig;;
