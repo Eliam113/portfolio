@@ -46,7 +46,7 @@ ThemeSwitcher.propTypes = {
 
 ThemeSwitcher.defaultProps = {
   darkClassName: "dark",
-  win: window,
+  win: typeof window !== "undefined" ? window : undefined,
 };
 
 export default ThemeSwitcher;

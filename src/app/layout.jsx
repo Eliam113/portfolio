@@ -1,6 +1,6 @@
 import { Roboto } from "next/font/google";
 import "./globals.css";
-
+export const dynamic = "force-static";
 const roboto = Roboto({
   weight: ["400", "700"],
   style: ["normal", "italic"],

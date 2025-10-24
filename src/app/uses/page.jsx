@@ -13,7 +13,7 @@ import ProjectCard from "../../components/ProjectCard/ProjectCard.jsx";
 import UseCard from "../../components/UseCard/UseCard.jsx";
 import UsesSection from "../../components/UsesSection/UsesSection.jsx";
 import { useState } from "react";
-
+export const dynamic = "force-static";
 const links = [
   {
     title: "Home",

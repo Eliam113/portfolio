@@ -10,7 +10,7 @@ import ThemeSwitcher from "../components/ThemeSwitcher/ThemeSwitcher.jsx";
 import ProjectCard from "../components/ProjectCard/ProjectCard.jsx";
 import { useState } from "react";
 //import "./globals.css";
-
+export const dynamic = "force-static";
 /**export const metadata = {
   title: "Portfolio - Home",
   description: "Home page of my portfolio.",

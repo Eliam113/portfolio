@@ -6,7 +6,7 @@ import Footer from "../../components/Footer/Footer.jsx";
 import Text from "../../components/Text/Text.jsx";
 import ProjectCard from "../../components/ProjectCard/ProjectCard.jsx";
 import { useState } from "react";
-
+export const dynamic = "force-static";
 // export const metadata = {
 //   title: "Portfolio - Projects",
 //   description: "The projects page of my portfolio.",

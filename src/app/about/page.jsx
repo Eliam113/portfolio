@@ -1,6 +1,7 @@
 import Navbar from "../../components/Navbar/Navbar.jsx";
 import Footer from "../../components/Footer/Footer.jsx";
 import ClientNavbar from "./ClientNavbar.jsx";
+export const dynamic = "force-static";
 
 export const metadata = {
   title: "Portfolio - About",
